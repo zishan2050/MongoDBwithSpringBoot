@@ -1,7 +1,9 @@
-# MongoDBwithSpringBoot
+# SpringBoot- Spring Data and MongoDB
+
 Sample project of Spring Data with MongoDb
 
-Steps to run this project.
+<h4>Installation and Getting Started</h4>
+
 <ul>
 <li>
 1. Clone this repo and import this project in Spring Tool Suite.
