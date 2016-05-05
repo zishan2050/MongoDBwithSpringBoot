@@ -1,6 +1,6 @@
 # SpringBoot- Spring Data and MongoDB
 
-Sample project of Spring Data with MongoDb
+Sample project which shows how to use Spring Data with MongoDb
 
 <h4>Installation and Getting Started</h4>
 
